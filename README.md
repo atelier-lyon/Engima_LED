@@ -4,7 +4,7 @@
 
 ## About
 
-This repo is a the LED Pcb of the Enigma project
+This repo is the LED panel PCB of the Enigma project
 
 ## Images:
 
