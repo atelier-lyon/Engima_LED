@@ -16,7 +16,7 @@ kibot:
 # MAYBE: SVG (Scalable Vector Graphics)
 # DISABLED: SVG PCB Print (Scalable Vector Graphics)
 # DISABLED: SVG Schematic Print
-#
+
 preflight:
   # annotate_pcb section: MAYBE LATER
   annotate_power: true
